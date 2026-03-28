@@ -12,12 +12,12 @@ In this dashboard, I analyzed HR data to understand employee attraction patterns
 * Average Years at Company: 7
 
 ### **📊Key Insights from the Dashboard:**
-Attrition analysis by Age Group
-ATTRITION by EDUCATION Field
-Attrition by Salary Slab
-Attrition by Job Role
-Attrition trend by Years at Company
-Gender-wise attrition analysis
+* Attrition analysis by Age Group
+* ATTRITION by EDUCATION Field
+* Attrition by Salary Slab
+* Attrition by Job Role
+* Attrition trend by Years at Company
+* Gender-wise attrition analysis
 
 ### **🛠 Tools & Skills Used:**
 • POWER BI
