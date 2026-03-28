@@ -2,12 +2,12 @@
 
 In this dashboard, I analyzed HR data to understand employee attraction patterns and key workforce insights.
 
-* 🔹 Total Employees: 1470
-* 🔹Attrition Count: 237
-🔹Attrition Rate: 16.1%
-🔹 Average Age: 37
-🔹 Average Monthly Income: 6.5K
-🔹 Average Years at Company: 7
+* Total Employees: 1470
+* Attrition Count: 237
+* Attrition Rate: 16.1%
+* Average Age: 37
+* Average Monthly Income: 6.5K
+* Average Years at Company: 7
 
 📊Key Insights from the Dashboard:
 Attrition analysis by Age Group
