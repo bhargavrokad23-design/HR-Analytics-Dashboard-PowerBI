@@ -9,7 +9,7 @@ In this dashboard, I analyzed HR data to understand employee attraction patterns
 * Average Monthly Income: 6.5K
 * Average Years at Company: 7
 
-📊Key Insights from the Dashboard:
+###📊Key Insights from the Dashboard:
 Attrition analysis by Age Group
 ATTRITION by EDUCATION Field
 Attrition by Salary Slab
