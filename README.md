@@ -1,3 +1,5 @@
+<img width="1162" height="714" alt="HR-Analytics-Dashboard" src="https://github.com/user-attachments/assets/59855041-c5ea-4950-b646-c2eca006b87e" />
+
 # HR-Analytics-Dashboard-PowerBI
 
 In this dashboard, I analyzed HR data to understand employee attraction patterns and key workforce insights.
