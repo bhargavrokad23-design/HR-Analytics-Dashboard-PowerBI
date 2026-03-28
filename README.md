@@ -2,7 +2,7 @@
 
 In this dashboard, I analyzed HR data to understand employee attraction patterns and key workforce insights.
 
-🔹 Total Employees: 1470
+***🔹 Total Employees: 1470
 🔹Attrition Count: 237
 🔹Attrition Rate: 16.1%
 🔹 Average Age: 37
