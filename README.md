@@ -20,11 +20,11 @@ In this dashboard, I analyzed HR data to understand employee attraction patterns
 * Gender-wise attrition analysis
 
 ### **🛠 Tools & Skills Used:**
-• POWER BI
-• Data Visualization
-• Data Cleaning
-• HR Analytics
-• Dashboard Design
+* POWER BI
+* Data Visualization
+* Data Cleaning
+* HR Analytics
+* Dashboard Design
 
 This project helped me improve my data visualization and analytical skills.
 
