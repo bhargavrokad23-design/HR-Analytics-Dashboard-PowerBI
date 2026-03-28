@@ -17,7 +17,7 @@ Attrition by Job Role
 Attrition trend by Years at Company
 Gender-wise attrition analysis
 
-🛠 Tools & Skills Used:
+### **🛠 Tools & Skills Used:**
 • POWER BI
 • Data Visualization
 • Data Cleaning
